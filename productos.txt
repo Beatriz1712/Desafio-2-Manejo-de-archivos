@@ -1,0 +1,1 @@
+[{"title":"titutlo1","description":"description1","price":100,"image":"image1","code":"code1","stock":10,"id":1},{"title":"titutlo2","description":"description2","price":200,"image":"image2","code":"code2","stock":20,"id":2},{"title":"titutlo3","description":"description3","price":300,"image":"image3","code":"code3","stock":30,"id":3}]
